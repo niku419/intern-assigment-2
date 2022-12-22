@@ -1,0 +1,30 @@
+/* 008672 */
+/* #FECE4C */
+.bootstrap-form{
+  background: #008672;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 40%;
+}
+.heading{
+  color: white;
+}
+p{
+  color: #FECE4C;
+  margin-bottom: 0 !important;
+}
+input::placeholder{
+  color: rgba(0, 0, 0, 0.3) !important;
+}
+.color-btn{
+  background-color: #FECE4C !important;
+  color: #008672 !important;
+}
+.main{
+  background: #00A78E !important;
+  height: 95%;
+  width: 40% !important;
+}
+/* .form-select{
+  color:rgba(0, 0, 0, 0.3) !important;
+} */
